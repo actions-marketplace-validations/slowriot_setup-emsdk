@@ -1,4 +1,4 @@
-name: 'Setup Emscripten toolchain'
+name: 'Setup Emscripten toolchain (node24)'
 description: 'Download emsdk and optionally install a version of Emscripten'
 author: 'mymindstorm'
 inputs:
